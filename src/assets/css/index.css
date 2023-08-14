@@ -1,0 +1,14 @@
+body{
+  background-color: var(--verdemilitar) ;
+}
+
+.Hparte{
+  padding: 70px;
+  margin: 50px;
+  border-radius: 30px;
+  background-color: var(--amarillo);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
